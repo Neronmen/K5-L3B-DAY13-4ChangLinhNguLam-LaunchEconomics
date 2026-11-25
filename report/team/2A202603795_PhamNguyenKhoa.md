@@ -4,7 +4,7 @@
 
 - Họ tên: Phạm Nguyên Khoa
 - MSSV: 2A202603795
-- Email:
+- Email: pnkvlog1508@gmail.com
 - Vai trong nhóm: Người viết code (trước giờ giải lao), kiêm tổng hợp `TEAM.md`, `group_report.md` và push bài
 
 ## 2. Phần việc phụ trách

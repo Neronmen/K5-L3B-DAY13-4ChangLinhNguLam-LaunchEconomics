@@ -11,7 +11,7 @@
 
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
-|   1 | Phạm Nguyên Khoa | 2A202603795 |  | Neronmen | Người viết code (trước giải lao) |
+|   1 | Phạm Nguyên Khoa | 2A202603795 | pnkvlog1508@gmail.com | Neronmen | Người viết code (trước giải lao) |
 |   2 | Nguyễn Trọng Lâm | 2A202603817 | 26ai.lamnt6@vinuni.edu.vn | NTLam108 | Người kiểm số, viết code sau giải lao |
 |   3 | Lê Viết Khoa | 2A202603737 | minfh26ai.khoalv2@vinuni.edu.vn |        | Người gắn nhãn 1 |
 |   4 | Nguyễn Ngọc Ninh | 2A202603774 |       | sevenminutes2311-creator | Người gắn nhãn 2, kiêm giữ hồ sơ |
