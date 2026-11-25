@@ -12,7 +12,7 @@
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
 |   1 | Phạm Nguyên Khoa | 2A202603795 |  | Neronmen | Người viết code (trước giải lao) |
-|   2 | Nguyễn Trọng Lâm | 2A202603817 |  | NTLam108 | Người kiểm số, viết code sau giải lao |
+|   2 | Nguyễn Trọng Lâm | 2A202603817 | 26ai.lamnt6@vinuni.edu.vn | NTLam108 | Người kiểm số, viết code sau giải lao |
 |   3 |        |      |       |        | Người gắn nhãn 1 |
 |   4 |        |      |       |        | Người gắn nhãn 2, kiêm giữ hồ sơ |
 
