@@ -47,5 +47,6 @@
 - [ ] Hoàn tất C với TV4: nhận đủ 20 nhãn người 2, tính đồng thuận = số ca trùng / 20 × 100, mục tiêu ít nhất **16/20 = 80%**; giải thích ca khác và góp ý bảng khắc phục 5 loại.
 - [ ] Nếu chưa có bộ nhãn độc lập từ trước khi xem tham khảo, báo giảng viên để thống nhất cách xử lý yêu cầu 8 phút độc lập; không dựng lại bằng chứng hoặc sửa nhãn gốc sau khi so.
 - [x] Bổ sung email **26ai.khoalv2@vinuni.edu.vn** do người học cung cấp cho TV3 (2A202603737).
-- [ ] Tra commit phần việc bằng `git log -1 -- report/team/2A202603737_LeVietKhoa.md` trên nhánh `feature/gannhan1`; gửi TV1 đóng góp TV3 và gửi TV4 kết quả E1–E2 để ghép 7 mục hồ sơ.
+- [x] Cập nhật thông tin và đóng góp TV3 (2A202603737) trong `TEAM.md`; phần việc được lưu trên nhánh `feature/gannhan1`, tra commit bằng `git log -1 -- TEAM.md report/team/2A202603737_LeVietKhoa.md`.
+- [ ] Gửi TV4 kết quả E1–E2 để ghép 7 mục hồ sơ và cùng hoàn tất đối chiếu 20 nhãn.
 - [ ] Tự nộp link repo nhóm trên LMS trước **23h59 GMT+7 ngày lab**, theo `SUBMISSION.md`.

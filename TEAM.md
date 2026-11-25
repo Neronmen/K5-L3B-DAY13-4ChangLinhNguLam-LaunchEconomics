@@ -13,7 +13,7 @@
 | --: | ------ | ---- | ----- | ------ | ------- |
 |   1 | Phạm Nguyên Khoa | 2A202603795 |  | Neronmen | Người viết code (trước giải lao) |
 |   2 | Nguyễn Trọng Lâm | 2A202603817 | 26ai.lamnt6@vinuni.edu.vn | NTLam108 | Người kiểm số, viết code sau giải lao |
-|   3 |        |      |       |        | Người gắn nhãn 1 |
+|   3 | Lê Viết Khoa | 2A202603737 | 26ai.khoalv2@vinuni.edu.vn |        | Người gắn nhãn 1 |
 |   4 |        |      |       |        | Người gắn nhãn 2, kiêm giữ hồ sơ |
 
 Bốn vai của lab:
@@ -69,7 +69,7 @@ Ví dụ: `report/team/20241234_NguyenVanAn.md`.
 
 - `report/team/pilot_plan.yaml` (đọc được bằng `yaml.safe_load`, không còn `?`), `report/team/2A202603817_NguyenTrongLam.md`.
 
-## (Thành viên 3: HoVaTen-MSSV)
+## LeVietKhoa-2A202603737
 
 ### Phần việc phụ trách
 
@@ -77,11 +77,14 @@ Ví dụ: `report/team/20241234_NguyenVanAn.md`.
 
 ### Đóng góp cụ thể
 
--
+- Hoàn thiện E1, E2 với hỗ trợ của Codex: 5 chỉ số, 8 event có `trace_id`, kiểm tra chéo chỉ số với event và 3 rủi ro kinh tế lấy số từ A4, B1–B4; số phụ thuộc thời gian giả lập có nhãn `[simulated]`.
+- Codex đã chạy `lab13.py` và kiểm đếm độc lập từ CSV: Chính 82,83% (994/1.200), Dùng 27,12% (48/177), An toàn 4,25% (51/1.200); 3 phép thử A1 ĐẠT, 2 CSV giữ nguyên.
+- Chọn sử dụng bộ 20 nhãn có AI hỗ trợ, đã đối chiếu hướng dẫn, và điền cột người 1 trong `bang_loi.md`; chờ TV4 so nhãn, tính đồng thuận và hoàn thiện bảng khắc phục 5 loại.
 
 ### Bằng chứng
 
--
+- [chi_so.md](report/team/chi_so.md): 5 chỉ số, 8 event và 3 rủi ro; [bang_loi.md](report/team/bang_loi.md): 20 nhãn TV3 chọn sử dụng, có ghi nguồn AI hỗ trợ.
+- [Báo cáo cá nhân TV3](report/team/2A202603737_LeVietKhoa.md); nhánh `feature/gannhan1`, commit phần việc ban đầu `1737162`, cập nhật bộ nhãn `8f05cad` và sửa email `dec0ae8`.
 
 ## (Thành viên 4: HoVaTen-MSSV)
 
