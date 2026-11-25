@@ -2,19 +2,19 @@
 
 ## Thông tin nhóm
 
-- Tên nhóm:
-- Lớp: L3A hoặc L3B
-- Repo nhóm: `K5-L3A-DAY13-TenNhom-LaunchEconomics` (xem [SUBMISSION.md](SUBMISSION.md))
-- URL repo, nhánh nộp, commit chốt:
+- Tên nhóm: 4ChangLinhNguLam
+- Lớp: L3B
+- Repo nhóm: `K5-L3B-DAY13-4ChangLinhNguLam-LaunchEconomics` (xem [SUBMISSION.md](SUBMISSION.md))
+- URL repo, nhánh nộp, commit chốt: https://github.com/Neronmen/K5-L3B-DAY13-4ChangLinhNguLam-LaunchEconomics · nhánh `main` · commit chốt: (ghi khi nộp)
 
 ## Thành viên
 
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
-|   1 |        |      |       |        |         |
-|   2 |        |      |       |        |         |
-|   3 |        |      |       |        |         |
-|   4 |        |      |       |        |         |
+|   1 | Phạm Nguyên Khoa | 2A202603795 |  | Neronmen | Người viết code (trước giải lao) |
+|   2 |        |      |       |        | Người kiểm số, viết code sau giải lao |
+|   3 |        |      |       |        | Người gắn nhãn 1 |
+|   4 |        |      |       |        | Người gắn nhãn 2, kiêm giữ hồ sơ |
 
 Bốn vai của lab:
 
@@ -35,13 +35,57 @@ report/team/MSSV_HoTen.md
 
 Ví dụ: `report/team/20241234_NguyenVanAn.md`.
 
-Sao chép mục dưới đây cho từng thành viên.
-
-## HoVaTen-MSSV
+## PhamNguyenKhoa-2A202603795
 
 ### Phần việc phụ trách
 
+- Người viết code trước giải lao: nhiệm vụ A (CP1), B (CP2) và phần tính D1 trong `src/lab13.py`.
+- Chia việc nhóm, tổng hợp `TEAM.md`, `report/team/group_report.md`, push bài.
+
+### Đóng góp cụ thể
+
+- Viết ba hàm A1 (ba phép thử ĐẠT), hàm `mo_hinh`, A3 theo loại, A4 chi phí cố định, 9 kịch bản B1, B2, B3, B4.
+- Viết `co_mau`, `he_so_thiet_ke` và in năm câu D1, tỉ lệ mở lại 7 ngày, ba chỉ số E1 cho các thành viên khác dùng.
+- Điền `report/team/bang_chi_phi.md`.
+
+### Bằng chứng
+
+- `src/lab13.py`, `report/team/bang_chi_phi.md`, `report/team/2A202603795_PhamNguyenKhoa.md`, `PHAN_CONG.md`.
+- Commit của tài khoản Neronmen trên nhánh `main`.
+
+## (Thành viên 2: HoVaTen-MSSV)
+
+### Phần việc phụ trách
+
+- Người kiểm số, viết code sau giải lao: nhiệm vụ D (`report/team/pilot_plan.yaml`).
+
+### Đóng góp cụ thể
+
 -
+
+### Bằng chứng
+
+-
+
+## (Thành viên 3: HoVaTen-MSSV)
+
+### Phần việc phụ trách
+
+- Người gắn nhãn 1: nhiệm vụ C (bộ nhãn 1), nhiệm vụ E1, E2 (`report/team/chi_so.md`).
+
+### Đóng góp cụ thể
+
+-
+
+### Bằng chứng
+
+-
+
+## (Thành viên 4: HoVaTen-MSSV)
+
+### Phần việc phụ trách
+
+- Người gắn nhãn 2, kiêm giữ hồ sơ: nhiệm vụ C (bộ nhãn 2, tổng hợp `report/team/bang_loi.md`), E3 (`report/team/ho_so_launch_v0.md`), chủ trì `report/team/phieu_cham.md`.
 
 ### Đóng góp cụ thể
 
