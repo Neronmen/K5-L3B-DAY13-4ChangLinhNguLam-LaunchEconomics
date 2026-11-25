@@ -2,11 +2,11 @@
 
 20 ca lỗi nằm trong `docs/Ngay13_Lab13_De_bai_hoc_vien.docx`. Năm loại theo Google PAIR: **Do người dùng · Hệ thống · Ngữ cảnh · Giới hạn hệ thống · Ngầm**. Gắn nhãn theo nguyên nhân gốc, không theo chỗ cần sửa.
 
-## Nhãn tham khảo cho 20 ca
+## Bộ nhãn TV3 chọn sử dụng cho 20 ca
 
-Đối chiếu mô tả tại mục **Hai mươi ca lỗi** trong đề gốc với mục **Nhãn tham khảo cho 20 ca** trong [hướng dẫn chi tiết](../../docs/Lab13_Huong_dan_chi_tiet_buoi_chieu.md#nhãn-tham-khảo-cho-20-ca). Đây là bộ nhãn tham khảo do AI hỗ trợ tổng hợp, chưa phải kết quả hai người gắn độc lập hay nhãn thống nhất của nhóm.
+TV3, Lê Viết Khoa (2A202603737), chọn sử dụng bộ 20 nhãn dưới đây để so với TV4. Bộ nhãn có AI hỗ trợ, đã đối chiếu đề gốc và [hướng dẫn chi tiết](../../docs/Lab13_Huong_dan_chi_tiet_buoi_chieu.md#nhãn-tham-khảo-cho-20-ca); chưa xác nhận quy trình 8 phút gắn độc lập và chưa phải nhãn thống nhất của nhóm.
 
-| Ca | Tình huống tóm tắt | Nhãn tham khảo | Lý do phân loại |
+| Ca | Tình huống tóm tắt | Nhãn TV3 chọn | Lý do phân loại |
 | --: | --- | --- | --- |
 | 1 | Số tài khoản thiếu hai chữ số, ngân hàng từ chối lệnh hoàn | Do người dùng | Khách nhập sai thông tin tài khoản; bổ sung kiểm tra đầu vào là cách khắc phục. |
 | 2 | Kiện 28 kg bị tra theo hàng thường, hoàn thiếu 45.000 đ | Hệ thống | Trợ lý gọi tool sai loại hàng, dẫn đến hoàn sai tiền và khách mở lại yêu cầu. |
@@ -31,34 +31,34 @@
 
 **Phân bố nhãn:** Do người dùng 4 ca (1, 6, 9, 14); Hệ thống 5 ca (2, 7, 8, 15, 20); Ngữ cảnh 4 ca (3, 10, 16, 18); Giới hạn hệ thống 4 ca (4, 11, 13, 19); Ngầm 3 ca (5, 12, 17). Tổng: **20 ca**.
 
-## Hai bộ nhãn độc lập
+## Bảng so nhãn TV3–TV4
 
-Người gắn nhãn 1: ... · Người gắn nhãn 2: ... (gắn trong 8 phút, không trao đổi)
+Người gắn nhãn 1: **Lê Viết Khoa (2A202603737)**, bộ 20 nhãn có AI hỗ trợ và đã đối chiếu tham khảo. Người gắn nhãn 2: **chờ TV4 bổ sung**; chưa có kết quả đối chiếu giữa 2 người.
 
-| Ca | Nhãn người 1 | Nhãn người 2 | Trùng? | Nhãn thống nhất |
+| Ca | Nhãn người 1 (có AI hỗ trợ) | Nhãn người 2 | Trùng? | Nhãn thống nhất |
 | --: | --- | --- | --- | --- |
-| 1 | ... | ... | ... | ... |
-| 2 | ... | ... | ... | ... |
-| 3 | ... | ... | ... | ... |
-| 4 | ... | ... | ... | ... |
-| 5 | ... | ... | ... | ... |
-| 6 | ... | ... | ... | ... |
-| 7 | ... | ... | ... | ... |
-| 8 | ... | ... | ... | ... |
-| 9 | ... | ... | ... | ... |
-| 10 | ... | ... | ... | ... |
-| 11 | ... | ... | ... | ... |
-| 12 | ... | ... | ... | ... |
-| 13 | ... | ... | ... | ... |
-| 14 | ... | ... | ... | ... |
-| 15 | ... | ... | ... | ... |
-| 16 | ... | ... | ... | ... |
-| 17 | ... | ... | ... | ... |
-| 18 | ... | ... | ... | ... |
-| 19 | ... | ... | ... | ... |
-| 20 | ... | ... | ... | ... |
+| 1 | Do người dùng | ... | ... | ... |
+| 2 | Hệ thống | ... | ... | ... |
+| 3 | Ngữ cảnh | ... | ... | ... |
+| 4 | Giới hạn hệ thống | ... | ... | ... |
+| 5 | Ngầm | ... | ... | ... |
+| 6 | Do người dùng | ... | ... | ... |
+| 7 | Hệ thống | ... | ... | ... |
+| 8 | Hệ thống | ... | ... | ... |
+| 9 | Do người dùng | ... | ... | ... |
+| 10 | Ngữ cảnh | ... | ... | ... |
+| 11 | Giới hạn hệ thống | ... | ... | ... |
+| 12 | Ngầm | ... | ... | ... |
+| 13 | Giới hạn hệ thống | ... | ... | ... |
+| 14 | Do người dùng | ... | ... | ... |
+| 15 | Hệ thống | ... | ... | ... |
+| 16 | Ngữ cảnh | ... | ... | ... |
+| 17 | Ngầm | ... | ... | ... |
+| 18 | Ngữ cảnh | ... | ... | ... |
+| 19 | Giới hạn hệ thống | ... | ... | ... |
+| 20 | Hệ thống | ... | ... | ... |
 
-**Tỉ lệ đồng thuận:** ... / 20 = ...%
+**Tỉ lệ đồng thuận:** chưa tính, chờ đủ 20 nhãn của TV4; công thức = số ca trùng / 20 × 100%.
 
 ## Quy tắc phân biệt cho các ca không trùng
 
