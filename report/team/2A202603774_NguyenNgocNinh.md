@@ -4,7 +4,7 @@
 
 - Họ tên: Nguyễn Ngọc Ninh
 - MSSV: 2A202603774
-- Email:
+- Email: sevenminutes2311@gmail.com
 - Vai trong nhóm: Người gắn nhãn 2, kiêm giữ hồ sơ (TV4)
 
 ## 2. Phần việc phụ trách
