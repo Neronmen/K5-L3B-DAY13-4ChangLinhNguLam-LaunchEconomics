@@ -50,7 +50,7 @@ Ví dụ: `report/team/20241234_NguyenVanAn.md`.
 
 ### Bằng chứng
 
-- `src/lab13.py`, `report/team/bang_chi_phi.md`, `report/team/2A202603795_PhamNguyenKhoa.md`, `PHAN_CONG.md`.
+- `src/lab13.py`, `report/team/bang_chi_phi.md`, `report/team/2A202603795_PhamNguyenKhoa.md`.
 - Commit của tài khoản Neronmen trên nhánh `main`.
 
 ## NguyenTrongLam-2A202603817

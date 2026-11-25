@@ -31,7 +31,7 @@
 ## 5. Công cụ AI đã dùng
 
 - Claude Code: chạy lại `lab13.py`, gợi ý cách viết các trường của `pilot_plan.yaml` theo hướng dẫn trong `docs/`, kiểm tra cú pháp YAML.
-- Cách tự kiểm tra: mọi số trong `pilot_plan.yaml` lấy từ output `lab13.py` hoặc bảng D1 trong `PHAN_CONG.md`; tính tay lại 4.472 đ, m ≥ 299, DE 6,96 và power 0,64 (khớp output statsmodels).
+- Cách tự kiểm tra: mọi số trong `pilot_plan.yaml` lấy từ output `lab13.py` (mục D1); tính tay lại 4.472 đ, m ≥ 299, DE 6,96 và power 0,64 (khớp output statsmodels).
 
 ## 6. Tự đánh giá
 

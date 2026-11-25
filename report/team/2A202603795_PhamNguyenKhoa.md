@@ -11,7 +11,7 @@
 
 - Nhiệm vụ A (CP1) và B (CP2): viết `src/lab13.py`, điền `report/team/bang_chi_phi.md`.
 - Tính sẵn số D1 (cỡ mẫu), tỉ lệ mở lại 7 ngày và ba chỉ số E1 trong `lab13.py` để TV2, TV3, TV4 dùng.
-- Chia việc cho nhóm (`PHAN_CONG.md`), điền `TEAM.md`, `report/team/group_report.md`, kiểm checklist `SUBMISSION.md`, commit và push.
+- Chia việc cho nhóm, điền `TEAM.md`, `report/team/group_report.md`, kiểm checklist `SUBMISSION.md`, commit và push.
 
 ## 3. Đóng góp cụ thể
 
@@ -23,7 +23,7 @@
 
 ## 4. Bằng chứng
 
-- File: `src/lab13.py`, `report/team/bang_chi_phi.md`, `PHAN_CONG.md`, `TEAM.md`.
+- File: `src/lab13.py`, `report/team/bang_chi_phi.md`, `TEAM.md`.
 - Commit trên nhánh `main` của repo nhóm (tác giả Neronmen).
 - Output `cd src && python lab13.py`: dòng `Ba phép thử đáp án biết trước: ĐẠT`; `cps 4,472.0`; `thanh_cong 978`.
 
