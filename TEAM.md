@@ -5,7 +5,7 @@
 - Tên nhóm: 4ChangLinhNguLam
 - Lớp: L3B
 - Repo nhóm: `K5-L3B-DAY13-4ChangLinhNguLam-LaunchEconomics` (xem [SUBMISSION.md](SUBMISSION.md))
-- URL repo, nhánh nộp, commit chốt: https://github.com/Neronmen/K5-L3B-DAY13-4ChangLinhNguLam-LaunchEconomics · nhánh `main` · commit chốt: (ghi khi nộp)
+- URL repo, nhánh nộp, commit chốt: https://github.com/Neronmen/K5-L3B-DAY13-4ChangLinhNguLam-LaunchEconomics · nhánh `main` · commit chốt: `1b7c730` (nội dung bài nộp; commit sau chỉ ghi mã này)
 
 ## Thành viên
 
