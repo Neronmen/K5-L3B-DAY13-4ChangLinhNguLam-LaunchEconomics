@@ -22,12 +22,12 @@ Mỗi người: copy report/team/MSSV_HoTen.md → report/team/<MSSV>_<HoTenKhon
 - [ ] Cuối buổi: điền `TEAM.md` (tên nhóm, lớp L3B, URL repo, commit chốt, bảng 4 thành viên + vai + đóng góp), `report/team/group_report.md`, chạy checklist trong `SUBMISSION.md`, commit + push.
 - [ ] Báo cáo cá nhân của mình.
 
-## TV2 · Người kiểm số + viết code sau giải lao
+## TV2 · Người kiểm số + viết code sau giải lao — ĐÃ LÀM
 
-- [ ] Clone repo, cài môi trường (xem `src/README.md`), chạy `python lab13.py` trên **máy của mình** → phải in ĐẠT (checklist yêu cầu chạy được trên máy khác).
-- [ ] Tính tay **một** con số để đối chiếu, ghi cách tính vào báo cáo cá nhân. Gợi ý: (245.585 + 84.000 + 1.780.000 + 2.264.000) / 978 = 4.472 đ.
-- [ ] Điền `report/team/pilot_plan.yaml` (nhiệm vụ D), dùng số D1 bên dưới. Không còn dấu `?` ngoài comment; ≥ 3 luật dừng (an toàn, chi phí, sử dụng) đủ 4 vế **NẾU – TRONG – THÌ – KHÔNG THÌ**.
-- [ ] Kiểm tra: `python -c "import yaml; yaml.safe_load(open('../report/team/pilot_plan.yaml', encoding='utf-8'))"`.
+- [x] Clone repo, cài môi trường (xem `src/README.md`), chạy `python lab13.py` trên **máy của mình** → phải in ĐẠT (checklist yêu cầu chạy được trên máy khác).
+- [x] Tính tay **một** con số để đối chiếu, ghi cách tính vào báo cáo cá nhân. Gợi ý: (245.585 + 84.000 + 1.780.000 + 2.264.000) / 978 = 4.472 đ.
+- [x] Điền `report/team/pilot_plan.yaml` (nhiệm vụ D), dùng số D1 bên dưới. Không còn dấu `?` ngoài comment; ≥ 3 luật dừng (an toàn, chi phí, sử dụng) đủ 4 vế **NẾU – TRONG – THÌ – KHÔNG THÌ**.
+- [x] Kiểm tra: `python -c "import yaml; yaml.safe_load(open('../report/team/pilot_plan.yaml', encoding='utf-8'))"`.
 
 Số D1 (đã tính):
 

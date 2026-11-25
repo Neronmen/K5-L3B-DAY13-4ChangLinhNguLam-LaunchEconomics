@@ -12,7 +12,7 @@
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
 |   1 | Phạm Nguyên Khoa | 2A202603795 |  | Neronmen | Người viết code (trước giải lao) |
-|   2 |        |      |       |        | Người kiểm số, viết code sau giải lao |
+|   2 | Nguyễn Trọng Lâm | 2A202603817 |  | NTLam108 | Người kiểm số, viết code sau giải lao |
 |   3 |        |      |       |        | Người gắn nhãn 1 |
 |   4 |        |      |       |        | Người gắn nhãn 2, kiêm giữ hồ sơ |
 
@@ -53,7 +53,7 @@ Ví dụ: `report/team/20241234_NguyenVanAn.md`.
 - `src/lab13.py`, `report/team/bang_chi_phi.md`, `report/team/2A202603795_PhamNguyenKhoa.md`, `PHAN_CONG.md`.
 - Commit của tài khoản Neronmen trên nhánh `main`.
 
-## (Thành viên 2: HoVaTen-MSSV)
+## NguyenTrongLam-2A202603817
 
 ### Phần việc phụ trách
 
@@ -61,11 +61,13 @@ Ví dụ: `report/team/20241234_NguyenVanAn.md`.
 
 ### Đóng góp cụ thể
 
--
+- Chạy lại `src/lab13.py` trên máy riêng (Windows, `.venv` mới): ĐẠT; statsmodels đối chiếu n = 1.250, power 0,64.
+- Tính tay đối chiếu: cps = (245.585 + 84.000 + 1.780.000 + 2.264.000) / 978 = 4.472 đ [simulated]; D1e m ≥ 299, DE 6,96.
+- Điền `report/team/pilot_plan.yaml`: chia theo staff 20 + 20, mde 0,06, n 859/nhóm, phạm vi noi_dia + hang_nang, ba luật dừng (an toàn, chi phí, sử dụng) đủ bốn vế.
 
 ### Bằng chứng
 
--
+- `report/team/pilot_plan.yaml` (đọc được bằng `yaml.safe_load`, không còn `?`), `report/team/2A202603817_NguyenTrongLam.md`.
 
 ## (Thành viên 3: HoVaTen-MSSV)
 
