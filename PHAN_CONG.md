@@ -43,10 +43,10 @@ Số D1 (đã tính):
 
 Gợi ý chọn: chia theo **staff**, 20 + 20, mde 0,06, n_per_arm 859, design_effect 6,96, clusters_per_arm 20; scope noi_dia + hang_nang.
 
-## TV3 · Người gắn nhãn 1
+## TV3 · Người gắn nhãn 1 — ĐÃ LÀM (chi_so.md xong; bộ nhãn 1 có AI hỗ trợ, không độc lập — nhóm cần báo coach)
 
-- [ ] **CP3 (15:35):** đọc 20 ca trong `docs/Ngay13_Lab13_De_bai_hoc_vien.docx` (mục "Hai mươi ca lỗi"), gắn nhãn **một mình trong 8 phút**, không trao đổi, **không xem bảng nhãn tham khảo trong docs/Lab13_Huong_dan_chi_tiet_buoi_chieu.md trước khi gắn**. Ghi nhãn ra giấy/ảnh chụp để làm bằng chứng.
-- [ ] Điền `report/team/chi_so.md`:
+- [x] **CP3 (15:35):** đọc 20 ca trong `docs/Ngay13_Lab13_De_bai_hoc_vien.docx` (mục "Hai mươi ca lỗi"), gắn nhãn **một mình trong 8 phút**, không trao đổi, **không xem bảng nhãn tham khảo trong docs/Lab13_Huong_dan_chi_tiet_buoi_chieu.md trước khi gắn**. Ghi nhãn ra giấy/ảnh chụp để làm bằng chứng.
+- [x] Điền `report/team/chi_so.md`:
   - E1: Chính 82,83% (994/1.200) · Dùng 27,12% (48/177) · An toàn 4,25% (51/1.200); tự đề xuất thêm 1 chỉ số dùng + 1 chỉ số an toàn.
   - ≥ 6 event, mỗi event có `trace_id`; phần kiểm tra chéo chỉ số ↔ event.
   - E2: ≥ 2 dòng rủi ro lấy số từ `bang_chi_phi.md` (ví dụ: làm lại ×2 → 6.787 đ +51,8%; xem lại 100% → 11.743 đ 0,98× / 12.415 đ 1,03×; khối lượng giảm một nửa → cố định 2.370 đ/việc). Ghi `[simulated]`.
@@ -54,7 +54,7 @@ Gợi ý chọn: chia theo **staff**, 20 + 20, mde 0,06, n_per_arm 859, design_e
 ## TV4 · Người gắn nhãn 2, kiêm giữ hồ sơ
 
 - [ ] Từ đầu buổi: điền dần `report/team/ho_so_launch_v0.md` bằng số của TV1 (mục 1, 2, 3, 7 trạng thái **Giả lập**).
-- [ ] **CP3:** gắn nhãn 20 ca **độc lập** với TV3 (ngồi tách, 8 phút). Sau đó cùng TV3 so nhãn → `report/team/bang_loi.md`: hai bộ nhãn, tỉ lệ đồng thuận (cần ≥ 16/20), quy tắc cho ca không trùng, bảng khắc phục 5 ca (mỗi loại 1 ca, phát hiện đo được, 1 vai trò phụ trách). **Không sửa bộ nhãn độc lập sau khi đã so.**
+- [ ] **CP3:** ⚠️ Bộ nhãn của TV3 đã nằm trong `bang_loi.md` trên `main` — **gắn xong 20 nhãn của mình trên giấy trước khi mở file đó**, không dùng AI, không xem docs/Lab13_Huong_dan_chi_tiet_buoi_chieu.md. Gắn nhãn 20 ca **độc lập** với TV3 (ngồi tách, 8 phút). Sau đó cùng TV3 so nhãn → `report/team/bang_loi.md`: hai bộ nhãn, tỉ lệ đồng thuận (cần ≥ 16/20), quy tắc cho ca không trùng, bảng khắc phục 5 ca (mỗi loại 1 ca, phát hiện đo được, 1 vai trò phụ trách). **Không sửa bộ nhãn độc lập sau khi đã so.**
 - [ ] 17:00: chốt hồ sơ đủ 7 mục, dòng cuối là **Go / Go có điều kiện / No-go**; gửi nhóm hội đồng.
 - [ ] Chủ trì `report/team/phieu_cham.md` khi nhóm mình chấm nhóm n + 1.
 

@@ -13,7 +13,7 @@
 | --: | ------ | ---- | ----- | ------ | ------- |
 |   1 | Phạm Nguyên Khoa | 2A202603795 |  | Neronmen | Người viết code (trước giải lao) |
 |   2 | Nguyễn Trọng Lâm | 2A202603817 | 26ai.lamnt6@vinuni.edu.vn | NTLam108 | Người kiểm số, viết code sau giải lao |
-|   3 |        |      |       |        | Người gắn nhãn 1 |
+|   3 | Lê Viết Khoa | 2A202603737 | minfh26ai.khoalv2@vinuni.edu.vn |        | Người gắn nhãn 1 |
 |   4 |        |      |       |        | Người gắn nhãn 2, kiêm giữ hồ sơ |
 
 Bốn vai của lab:
@@ -69,7 +69,7 @@ Ví dụ: `report/team/20241234_NguyenVanAn.md`.
 
 - `report/team/pilot_plan.yaml` (đọc được bằng `yaml.safe_load`, không còn `?`), `report/team/2A202603817_NguyenTrongLam.md`.
 
-## (Thành viên 3: HoVaTen-MSSV)
+## LeVietKhoa-2A202603737
 
 ### Phần việc phụ trách
 
@@ -77,11 +77,12 @@ Ví dụ: `report/team/20241234_NguyenVanAn.md`.
 
 ### Đóng góp cụ thể
 
--
+- `chi_so.md`: ba chỉ số tính thử khớp output `lab13.py` (82,83% · 27,12% · 4,25%), hai chỉ số tự đề xuất, 8 event có `trace_id`, kiểm tra chéo chỉ số với event, 3 dòng rủi ro kinh tế có nhãn simulated.
+- `bang_loi.md`: điền bộ nhãn người 1 cho 20 ca. Bộ nhãn có AI hỗ trợ và đã đối chiếu nhãn tham khảo, không phải gắn độc lập 8 phút (đã ghi rõ trong file và báo cáo cá nhân).
 
 ### Bằng chứng
 
--
+- `report/team/chi_so.md`, `report/team/bang_loi.md`, `report/team/2A202603737_LeVietKhoa.md`; commit trên nhánh `feature/gannhan1`, đã merge vào `main`.
 
 ## (Thành viên 4: HoVaTen-MSSV)
 
