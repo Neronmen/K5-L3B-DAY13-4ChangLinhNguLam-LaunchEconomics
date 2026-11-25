@@ -14,22 +14,23 @@
 
 ## 3. Đóng góp cụ thể
 
-- Nhiệm vụ C: (Ninh điền sau khi gắn và so nhãn: số ca trùng …/20, ca không trùng, quy tắc phân biệt)
+- Nhiệm vụ C: gắn 20 nhãn, trùng người 1 20/20 = 100%, 0 ca không trùng. Bộ nhãn người 1 có AI hỗ trợ nên không độc lập.
 - `ho_so_launch_v0.md`: 7 mục, mỗi mục có con số, trạng thái và một vai trò phụ trách; đề xuất Go có điều kiện với 4 điều kiện có ngày kiểm tra.
 - Nêu ba con số bất lợi kèm cách xử lý: power 0,64; xem lại 100% tốn 0,98–1,03× [simulated]; quoc_te 1,88× [simulated].
 
 ## 4. Bằng chứng
 
 - File: `report/team/ho_so_launch_v0.md`, `report/team/bang_loi.md`, báo cáo này.
-- Nhãn độc lập của tôi: (Ninh đính kèm ảnh chụp hoặc giấy ghi nhãn)
-- Commit: (Ninh điền sau khi push)
+- Bộ 20 nhãn của tôi: cột "Nhãn người 2" trong `bang_loi.md`; có ảnh tờ nhãn viết tay (gửi sau khi đã điền bảng), không có giờ làm (1/2 bằng chứng).
+- Commit: `f04fffd` (hồ sơ launch, khung báo cáo).
 
 ## 5. Công cụ AI đã dùng
 
-- Claude Code: đọc tài liệu của repo, chạy lại `src/lab13.py`, soạn nháp `ho_so_launch_v0.md` và khung báo cáo này. Không dùng AI để gắn nhãn 20 ca lỗi.
+- Claude Code: đọc tài liệu của repo, chạy lại `src/lab13.py`, soạn nháp `ho_so_launch_v0.md` và báo cáo này; giải thích định nghĩa 5 loại và cách gắn bằng ví dụ ngoài 20 ca; chép nhãn vào bảng, tính đồng thuận, soạn nháp bảng khắc phục 5 ca.
+- Claude Code không gắn nhãn ca nào trong 20 ca.
 - Claude Code chạy lại `lab13.py`: in ĐẠT, `cps 4,472.0`, power 0,64, khớp `bang_chi_phi.md`.
-- Cách tôi tự kiểm tra: (Ninh điền việc mình đã tự kiểm, ví dụ tính tay 1.251 × 0,02 = 25,02; 890 / 177 = 5,03 phút [simulated])
+- Cách tôi tự kiểm tra: chưa bổ sung.
 
 ## 6. Tự đánh giá
 
-(Ninh tự viết)
+Chưa bổ sung.

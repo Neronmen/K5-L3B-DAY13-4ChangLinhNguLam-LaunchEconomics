@@ -35,47 +35,47 @@ TV3, Lê Viết Khoa (2A202603737), chọn sử dụng bộ 20 nhãn dưới đ�
 
 ## Bảng so nhãn TV3–TV4
 
-Người gắn nhãn 1: **Lê Viết Khoa (2A202603737)**, bộ 20 nhãn có AI hỗ trợ và đã đối chiếu tham khảo. Người gắn nhãn 2: **Nguyễn Ngọc Ninh (2A202603774), chờ bổ sung nhãn**; chưa có kết quả đối chiếu giữa 2 người.
+Người gắn nhãn 1: **Lê Viết Khoa (2A202603737)**, bộ 20 nhãn có AI hỗ trợ và đã đối chiếu tham khảo. Người gắn nhãn 2: **Nguyễn Ngọc Ninh (2A202603774)**, theo lời khai chưa xem nhãn người 1 trước khi gắn; có ảnh tờ nhãn viết tay (khớp 20/20 ca, gửi sau khi đã điền bảng), không có giờ làm, nên chưa chứng minh được tính độc lập.
 
 | Ca | Nhãn người 1 (có AI hỗ trợ) | Nhãn người 2 | Trùng? | Nhãn thống nhất |
 | --: | --- | --- | --- | --- |
-| 1 | Do người dùng | ... | ... | ... |
-| 2 | Hệ thống | ... | ... | ... |
-| 3 | Ngữ cảnh | ... | ... | ... |
-| 4 | Giới hạn hệ thống | ... | ... | ... |
-| 5 | Ngầm | ... | ... | ... |
-| 6 | Do người dùng | ... | ... | ... |
-| 7 | Hệ thống | ... | ... | ... |
-| 8 | Hệ thống | ... | ... | ... |
-| 9 | Do người dùng | ... | ... | ... |
-| 10 | Ngữ cảnh | ... | ... | ... |
-| 11 | Giới hạn hệ thống | ... | ... | ... |
-| 12 | Ngầm | ... | ... | ... |
-| 13 | Giới hạn hệ thống | ... | ... | ... |
-| 14 | Do người dùng | ... | ... | ... |
-| 15 | Hệ thống | ... | ... | ... |
-| 16 | Ngữ cảnh | ... | ... | ... |
-| 17 | Ngầm | ... | ... | ... |
-| 18 | Ngữ cảnh | ... | ... | ... |
-| 19 | Giới hạn hệ thống | ... | ... | ... |
-| 20 | Hệ thống | ... | ... | ... |
+| 1 | Do người dùng | Do người dùng | Có | Do người dùng |
+| 2 | Hệ thống | Hệ thống | Có | Hệ thống |
+| 3 | Ngữ cảnh | Ngữ cảnh | Có | Ngữ cảnh |
+| 4 | Giới hạn hệ thống | Giới hạn hệ thống | Có | Giới hạn hệ thống |
+| 5 | Ngầm | Ngầm | Có | Ngầm |
+| 6 | Do người dùng | Do người dùng | Có | Do người dùng |
+| 7 | Hệ thống | Hệ thống | Có | Hệ thống |
+| 8 | Hệ thống | Hệ thống | Có | Hệ thống |
+| 9 | Do người dùng | Do người dùng | Có | Do người dùng |
+| 10 | Ngữ cảnh | Ngữ cảnh | Có | Ngữ cảnh |
+| 11 | Giới hạn hệ thống | Giới hạn hệ thống | Có | Giới hạn hệ thống |
+| 12 | Ngầm | Ngầm | Có | Ngầm |
+| 13 | Giới hạn hệ thống | Giới hạn hệ thống | Có | Giới hạn hệ thống |
+| 14 | Do người dùng | Do người dùng | Có | Do người dùng |
+| 15 | Hệ thống | Hệ thống | Có | Hệ thống |
+| 16 | Ngữ cảnh | Ngữ cảnh | Có | Ngữ cảnh |
+| 17 | Ngầm | Ngầm | Có | Ngầm |
+| 18 | Ngữ cảnh | Ngữ cảnh | Có | Ngữ cảnh |
+| 19 | Giới hạn hệ thống | Giới hạn hệ thống | Có | Giới hạn hệ thống |
+| 20 | Hệ thống | Hệ thống | Có | Hệ thống |
 
-**Tỉ lệ đồng thuận:** chưa tính, chờ đủ 20 nhãn của TV4; công thức = số ca trùng / 20 × 100%.
+**Tỉ lệ đồng thuận: 20 / 20 = 100%.** Bộ nhãn người 1 có AI hỗ trợ và đã đối chiếu bảng tham khảo, nên 20/20 không phải đồng thuận giữa hai bộ nhãn độc lập.
 
 ## Quy tắc phân biệt cho các ca không trùng
 
-Mỗi ca không trùng một câu. Đồng thuận dưới 80% thì ghi định nghĩa đã viết lại.
+Đồng thuận 20/20, ngưỡng 16/20.
 
-- ...
+- Không có ca nào không trùng (0/20), nên không cần quy tắc phân biệt; đồng thuận trên mức 16/20 nên không viết lại định nghĩa.
 
 ## Bảng khắc phục cho 5 ca, mỗi loại một ca
 
-Cách phát hiện phải đo được (event, ngưỡng, tần suất). Người phụ trách là một vai trò.
+Cách phát hiện phải đo được (event, ngưỡng, tần suất). Người phụ trách là một vai trò. Các ngưỡng là đề xuất cho pilot, chưa đo.
 
 | Ca | Loại lỗi | Phát hiện bằng gì | Khắc phục thế nào | Ai phụ trách |
 | --: | --- | --- | --- | --- |
-| ... | Do người dùng | ... | ... | ... |
-| ... | Hệ thống | ... | ... | ... |
-| ... | Ngữ cảnh | ... | ... | ... |
-| ... | Giới hạn hệ thống | ... | ... | ... |
-| ... | Ngầm | ... | ... | ... |
+| 1 | Do người dùng | `request_reopened` có `reopen_reason = sai_tai_khoan_nhan` (nối `trace_id`): ≥ 3 ca/tuần thì cảnh báo, rà 1 lần/tuần. | Form chặn số tài khoản sai độ dài theo ngân hàng trước khi tạo lệnh; hiện lại số để khách xác nhận 1 lần; lệnh bị trả về thì nhắn khách sửa trong 1 giờ. | PM trợ lý hoàn phí |
+| 20 | Hệ thống | `refund_audit_completed` có `duplicate_refund_flag = true` (nối `trace_id`): ≥ 1 ca thì cảnh báo ngay, đối soát 1 lần/ngày. | Thêm khoá chống trùng theo mã vận đơn cho lệnh hoàn (gửi lại tạo `request_id` mới nên không khoá theo trường này); có 1 ca thì áp dụng luật dừng an toàn (tắt trợ lý trong 30 phút) và thu hồi khoản thừa. | Kỹ sư trưởng agent |
+| 18 | Ngữ cảnh | `request_reopened` có `reopen_reason = khong_hieu_cach_tinh` (nối `trace_id`): > 10% số ca mở lại trong tuần, rà 1 lần/tuần. | Mẫu tin nhắn bắt buộc đủ 3 phần: phí giao 30.000 đ, tỉ lệ 50%, số hoàn 15.000 đ; kèm liên kết điều khoản. | PM trợ lý hoàn phí |
+| 19 | Giới hạn hệ thống | `request_closed` có `ket_qua = chuyen_nhan_vien` (nối `trace_id`), lý do đơn quá 12 tháng: > 2% yêu cầu/tuần, rà 1 lần/tuần. | Kiểm tra ngày đơn khi tiếp nhận; đơn quá 12 tháng chuyển thẳng nhân viên kèm tóm tắt, 0 lần chạy agent; báo khách hạn xử lý 24 giờ. | Trưởng nhóm CSKH |
+| 17 | Ngầm | `refund_audit_completed` có `wrong_amount_flag = true` hoặc `policy_version` khác bản hiện hành (nối `trace_id`): ≥ 1 ca/ngày, đối soát 1 lần/ngày. | Xoá bộ nhớ đệm bảng giá ngay khi đổi bản và đặt hạn lưu 24 giờ; rà lại 212 đơn trong 9 ngày, hoàn bù chênh 1.000–2.000 đ/đơn. | Kế toán trưởng |
