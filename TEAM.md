@@ -14,7 +14,7 @@
 |   1 | Phạm Nguyên Khoa | 2A202603795 |  | Neronmen | Người viết code (trước giải lao) |
 |   2 | Nguyễn Trọng Lâm | 2A202603817 | 26ai.lamnt6@vinuni.edu.vn | NTLam108 | Người kiểm số, viết code sau giải lao |
 |   3 | Lê Viết Khoa | 2A202603737 | minfh26ai.khoalv2@vinuni.edu.vn |        | Người gắn nhãn 1 |
-|   4 |        |      |       |        | Người gắn nhãn 2, kiêm giữ hồ sơ |
+|   4 | Nguyễn Ngọc Ninh | 2A202603774 |       | sevenminutes2311-creator | Người gắn nhãn 2, kiêm giữ hồ sơ |
 
 Bốn vai của lab:
 
@@ -84,7 +84,7 @@ Ví dụ: `report/team/20241234_NguyenVanAn.md`.
 
 - `report/team/chi_so.md`, `report/team/bang_loi.md`, `report/team/2A202603737_LeVietKhoa.md`; commit trên nhánh `feature/gannhan1`, đã merge vào `main`.
 
-## (Thành viên 4: HoVaTen-MSSV)
+## NguyenNgocNinh-2A202603774
 
 ### Phần việc phụ trách
 
@@ -92,8 +92,9 @@ Ví dụ: `report/team/20241234_NguyenVanAn.md`.
 
 ### Đóng góp cụ thể
 
--
+- `ho_so_launch_v0.md`: đủ 7 mục, mỗi mục có con số chính, trạng thái và một vai trò phụ trách; nêu ba con số bất lợi kèm cách xử lý; đề xuất Go có điều kiện với 4 điều kiện có người phụ trách và ngày kiểm tra.
+- Nhiệm vụ C: (bổ sung sau khi gắn nhãn và so nhãn)
 
 ### Bằng chứng
 
--
+- `report/team/ho_so_launch_v0.md`, `report/team/2A202603774_NguyenNgocNinh.md`; commit `f04fffd` trên `main`.
