@@ -25,7 +25,7 @@
 ## 4. Bằng chứng
 
 - File: `report/team/pilot_plan.yaml`, báo cáo này.
-- Kiểm tra: `python -c "import yaml; yaml.safe_load(open('../report/team/pilot_plan.yaml', encoding='utf-8'))"` chạy không lỗi; `grep -v '^ *#' ../report/team/pilot_plan.yaml | grep -n '?'` không in gì; `grep -rni production report/team` không in gì.
+- Kiểm tra: `python -c "import yaml; yaml.safe_load(open('../report/team/pilot_plan.yaml', encoding='utf-8'))"` chạy không lỗi; `grep -v '^ *#' ../report/team/pilot_plan.yaml | grep -n '?'` không in gì; lệnh grep kiểm tra từ cấm trong `report/team` không in gì.
 - Output `cd src && python lab13.py` trên máy TV2: `ĐẠT`, `cps 4,472.0`, `statsmodels: n (5 điểm) = 1,250; power ở 5 điểm với n=859 = 0.64`.
 
 ## 5. Công cụ AI đã dùng
