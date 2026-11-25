@@ -4,7 +4,7 @@
 
 - Họ tên: Nguyễn Trọng Lâm
 - MSSV: 2A202603817
-- Email:
+- Email: 26ai.lamnt6@vinuni.edu.vn
 - Vai trong nhóm: Người kiểm số, viết code sau giải lao (TV2)
 
 ## 2. Phần việc phụ trách
