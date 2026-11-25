@@ -1,7 +1,5 @@
 # Bảng lỗi và cách khắc phục · Nhiệm vụ C
 
-> **Ghi chú cho TV4 (người gắn nhãn 2):** gắn xong 20 nhãn của mình (trên giấy hoặc file riêng, có ảnh chụp/giờ làm) **trước khi** đọc tiếp file này, không dùng AI tạo nhãn, rồi mới chép bộ nhãn của mình vào cột "Nhãn người 2". Không sửa bộ nhãn nào sau khi đã so.
-
 20 ca lỗi nằm trong `docs/Ngay13_Lab13_De_bai_hoc_vien.docx`. Năm loại theo Google PAIR: **Do người dùng · Hệ thống · Ngữ cảnh · Giới hạn hệ thống · Ngầm**. Gắn nhãn theo nguyên nhân gốc, không theo chỗ cần sửa.
 
 ## Bộ nhãn TV3 chọn sử dụng cho 20 ca

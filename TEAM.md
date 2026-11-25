@@ -93,8 +93,8 @@ Ví dụ: `report/team/20241234_NguyenVanAn.md`.
 ### Đóng góp cụ thể
 
 - `ho_so_launch_v0.md`: đủ 7 mục, mỗi mục có con số chính, trạng thái và một vai trò phụ trách; nêu ba con số bất lợi kèm cách xử lý; đề xuất Go có điều kiện với 4 điều kiện có người phụ trách và ngày kiểm tra.
-- Nhiệm vụ C: (bổ sung sau khi gắn nhãn và so nhãn)
+- Nhiệm vụ C: bộ nhãn người 2 (20 ca, gắn tay), so nhãn 20/20, bảng khắc phục 5 ca đủ 5 loại; cập nhật mục 5 hồ sơ.
 
 ### Bằng chứng
 
-- `report/team/ho_so_launch_v0.md`, `report/team/2A202603774_NguyenNgocNinh.md`; commit `f04fffd` trên `main`.
+- `report/team/ho_so_launch_v0.md`, `report/team/2A202603774_NguyenNgocNinh.md`; commit `f04fffd`, `464cace` trên `main`.
