@@ -29,7 +29,7 @@ Trả lời bốn câu cho trợ lý hoàn phí LogiX-VN trước Gate 2a: có �
 - Chỉ số trong đợt chạy thử là: chính 82,83% (994/1.200), bỏ qua gợi ý 27,12% (48/177), mở lại 7 ngày 4,25% (51/1.200); chưa có đối chứng nên chưa kết luận tác động.
 - Pilot: 20 + 20 nhân viên, mde 6 điểm, power chỉ 0,64 nếu tác động thật là 5 điểm.
 - Đề xuất cuối trong `ho_so_launch_v0.md`: **Go có điều kiện** cho pilot noi_dia + hang_nang, 4 điều kiện có người phụ trách và ngày kiểm tra.
-- Kết quả duyệt chéo nhận được từ hội đồng: (ghi điểm và quyết định nhóm hội đồng chấm nhóm mình)
+- Kết quả duyệt chéo nhận được từ hội đồng: chưa nhận được kết quả tại thời điểm nộp. Nhóm mình đã chấm nhóm olala: 30/30, Go có điều kiện ([phieu_cham.md](phieu_cham.md)).
 
 ## 5. Khó khăn và cách xử lý
 
