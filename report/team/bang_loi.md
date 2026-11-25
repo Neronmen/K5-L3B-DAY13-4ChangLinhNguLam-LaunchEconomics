@@ -35,7 +35,7 @@ TV3, Lê Viết Khoa (2A202603737), chọn sử dụng bộ 20 nhãn dưới đ�
 
 ## Bảng so nhãn TV3–TV4
 
-Người gắn nhãn 1: **Lê Viết Khoa (2A202603737)**, bộ 20 nhãn có AI hỗ trợ và đã đối chiếu tham khảo. Người gắn nhãn 2: **chờ TV4 bổ sung**; chưa có kết quả đối chiếu giữa 2 người.
+Người gắn nhãn 1: **Lê Viết Khoa (2A202603737)**, bộ 20 nhãn có AI hỗ trợ và đã đối chiếu tham khảo. Người gắn nhãn 2: **Nguyễn Ngọc Ninh (2A202603774), chờ bổ sung nhãn**; chưa có kết quả đối chiếu giữa 2 người.
 
 | Ca | Nhãn người 1 (có AI hỗ trợ) | Nhãn người 2 | Trùng? | Nhãn thống nhất |
 | --: | --- | --- | --- | --- |
@@ -70,7 +70,7 @@ Mỗi ca không trùng một câu. Đồng thuận dưới 80% thì ghi định 
 
 ## Bảng khắc phục cho 5 ca, mỗi loại một ca
 
-Cách phát hiện phải đo được (event, ngưỡng, tần suất). Người phụ trách là một vai trò, không ghi "cả đội".
+Cách phát hiện phải đo được (event, ngưỡng, tần suất). Người phụ trách là một vai trò.
 
 | Ca | Loại lỗi | Phát hiện bằng gì | Khắc phục thế nào | Ai phụ trách |
 | --: | --- | --- | --- | --- |
